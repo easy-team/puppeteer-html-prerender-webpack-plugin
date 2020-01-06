@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-html-prerender-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "puppeteer html prerender webpack plugin",
   "keywords": [
     "webpack",
@@ -16,7 +16,8 @@
   ],
   "dependencies": {
     "jsdom": "^15.2.1",
-    "puppeteer": "^2.0.0"
+    "puppeteer": "^2.0.0",
+    "easy-puppeteer-html": "^1.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
